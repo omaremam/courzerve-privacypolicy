@@ -1,5 +1,3 @@
-#
-
 <h2><b>Courzerve privacy policy</b></h2>
 
 <!-- link to live site https://omaremam.github.io/courzerve-privacypolicy/ --> 
