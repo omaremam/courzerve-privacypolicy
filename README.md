@@ -2,13 +2,14 @@
 <meta property="og:type"            content="website" /> 
 <meta property="og:title" content="courzerve-privacypolicy" />
 <meta property="og:image"           content="https://ws.courzerve.com/static/media/logooutline.ec1a8aa2.svg" />
+<meta property="og:description"    content= "This privacy policy ("Policy") describes how our Mobile Application collects, protects and uses the personally identifiable information you may provide to Courzerve and any of its products or services. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage." /> 
 <h2><b>Courzerve privacy policy</b></h2>
 
 <!-- link to live site https://omaremam.github.io/courzerve-privacypolicy/ --> 
 
 <b>Privacy policy</b> 
 
-<meta property="og:description"    content= "This privacy policy ("Policy") describes how our Mobile Application collects, protects and uses the personally identifiable information you may provide to Courzerve and any of its products or services. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage." /> 
+This privacy policy ("Policy") describes how our Mobile Application collects, protects and uses the personally identifiable information you may provide to Courzerve and any of its products or services. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 <b>Collection of personal information</b> 
 
